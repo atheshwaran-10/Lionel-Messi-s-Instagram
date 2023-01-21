@@ -1,0 +1,192 @@
+body
+{
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+.profile
+{
+  
+   height: 100px;
+    border-radius: 100%;
+}
+.instagram
+{
+    
+
+   height: 40px;
+}
+.right
+{
+    align-items: right;
+}
+.sign
+{
+    color:rgb(0, 162, 255);
+    font-weight: 500;
+    
+    
+}
+.log
+{
+    text-align: center;
+    position: relative;
+    right:30px;
+    font-weight: 500;
+    border-radius: 15%;
+    margin-right: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.border1
+{
+    padding-right: 330px;
+}
+.head
+{
+    margin-top: 20px;
+}
+.blue-tick
+{
+    max-width: 30px;
+    position: relative;
+    right: 30px;
+}
+.more
+{
+    text-align: center;
+    height: 110px;
+    border-radius: 30%;
+    position: relative;
+    right :170px;
+    top: 4px;
+}
+.headb
+{
+    color:black;
+    font-weight: 640;
+   
+    font-size: 1.2rem;
+    background-color: rgb(238, 233, 233);
+    width: 160px;
+    border-radius: 10%;
+}
+.headb:hover
+{
+    background-color: rgb(208, 208, 204);
+}
+.messi
+{
+    color:rgb(61, 61, 162);
+    margin-top: 1px;
+    font-weight: 700;
+    position: relative;
+    bottom: 17px;
+}
+p{
+    font-size: 1.1rem;
+}
+.sign{
+    position: relative;
+    right:20px;
+    
+    right: 10px;
+
+}
+.high-text
+{
+    text-align: center;
+}
+.sign:hover{
+    color: rgb(101, 181, 250);
+    font-style: normal;
+    text-decoration:none;
+}
+.high
+{
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 150%;
+    height:70px;
+}
+.post
+{
+    height: 210px;
+}
+.index
+{
+    text-align: center;
+    margin:auto 240px;
+}
+b{
+    margin-left: 2px;
+    font-size: 1.2rem;
+}
+.one
+{
+ 
+    position: relative;
+    right: 180px;
+}
+.two
+{
+    
+    position: relative;
+    
+}
+.three
+{
+   
+    position: relative;
+    left: 160px;
+}
+.grid
+{
+    height: 30px;
+    position: relative;
+    left: 60px;
+    margin-bottom: 2px;
+
+}
+.reel
+{
+    height: 35px;
+    position: relative;
+    left: 80px;
+    margin-bottom: 2px;
+}
+.contact
+{
+    height: 35px;
+    position: relative;
+    left: 80px;
+    margin-bottom: 2px;
+}
+ul{
+    list-style: none;
+}
+.foot{
+    text-align: center;
+    margin: auto 10px;
+    margin-top: 90px;
+    color:rgb(144, 142, 139);
+
+
+}
+li{
+    margin-top: 20px;
+    margin-bottom: 2px;
+    color:rgb(144, 142, 139);
+    text-align: center;
+}
+.foot:hover
+{
+    text-decoration: underline;
+    color: rgb(144, 142, 139);
+}
+.main
+{
+    margin-bottom: 10px;
+}
