@@ -181,7 +181,7 @@
         margin-top: 20px;
         margin-bottom: 2px;
         color:rgb(144, 142, 139);
-        text-align: center;
+        text-align: left;
     }
     .foot:hover
     {
@@ -191,4 +191,13 @@
     .main
     {
         margin-bottom: 10px;
+    }
+    .mid{
+        position: relative;
+        left:80px;
+    }
+    .end
+    {
+        position: relative;
+        left:50px;
     }
