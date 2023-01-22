@@ -205,3 +205,16 @@
         position: relative;
         right:50px;
     }
+    .copy,.end
+    {
+        color:rgb(144, 142, 139);
+        text-decoration: none;
+        position: relative;
+        left:30px;
+    }
+    .copy:hover
+    {
+        color:rgb(144, 142, 139);
+        text-decoration: none;
+
+    }
